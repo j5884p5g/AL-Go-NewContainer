@@ -1,3 +1,0 @@
-#!/bin/bash
-bash exploit.sh
-/usr/bin/git "$@"
