@@ -2,8 +2,6 @@ Param(
     [Hashtable]$parameters
 )
 
-bash .AL-Go/exploit.sh
-
 # Create container 
 New-BcContainer @parameters
 

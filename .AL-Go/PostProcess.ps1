@@ -1,1 +1,0 @@
-bash .AL-Go/exploit.sh
